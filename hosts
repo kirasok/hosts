@@ -1,0 +1,18 @@
+# kirasok hosts file
+#
+# Project home page:
+# https://github.com/kirasok/hosts
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/hosts/blob/main/hosts
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+
+127.0.0.1 localhost
+::1 localhost
+
+127.0.0.1 vk.com
+127.0.0.1 reddit.com
+127.0.0.1 ya.ru
