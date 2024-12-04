@@ -1,0 +1,16 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: kirasok's Personal Rulesets
+! Maintainer: kirasok
+
+Cloudflare Challenge
+    * challenges.cloudflare.com
+        _ challenges.cloudflare.com frame allow
+        _ challenges.cloudflare.com script allow
+        _ challenges.cloudflare.com xhr allow
+
+Yandex Maps
+    * maps.yandex.net
+        _ api-maps.yandex.ru image allow
+        _ api-maps.yandex.ru script allow
+        _ maps.yandex.net image allow
+        _ yastatic.net script allow
