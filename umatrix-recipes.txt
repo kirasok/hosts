@@ -7,6 +7,7 @@ Cloudflare Challenge
         _ challenges.cloudflare.com frame allow
         _ challenges.cloudflare.com script allow
         _ challenges.cloudflare.com xhr allow
+        _ challenges.cloudflare.com image allow
 
 Yandex Maps
     * maps.yandex.net
