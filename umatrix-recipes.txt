@@ -26,3 +26,13 @@ Yandex Maps
         _ api-maps.yandex.ru script allow
         _ maps.yandex.net image allow
         _ yastatic.net script allow
+
+Youtube as 3rd-party
+	* youtube.com
+		_ youtube.com css
+		_ youtube.com image
+		_ youtube.com script
+		_ youtube.com frame
+		_ googlevideo.com xhr
+		_ ytimg.com image
+		_ ggpht.com image
