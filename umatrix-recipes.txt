@@ -10,7 +10,7 @@ Cloudflare Challenge
         _ challenges.cloudflare.com image allow
         _ challenges.cloudflare.com css allow
 
-Google ReCapcha
+Google ReCaptcha
     * google.com
         _ www.google.com css allow
         _ www.google.com frame allow
@@ -36,3 +36,11 @@ Youtube as 3rd-party
 		_ googlevideo.com xhr
 		_ ytimg.com image
 		_ ggpht.com image
+
+HCaptcha
+	* hcaptcha.com
+		_ hcaptcha.com css
+		_ hcaptcha.com image
+		_ hcaptcha.com script
+		_ hcaptcha.com xhr
+		_ hcaptcha.com frame
