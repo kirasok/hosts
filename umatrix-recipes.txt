@@ -3,29 +3,29 @@
 ! Maintainer: kirasok
 
 Cloudflare Challenge
-    * challenges.cloudflare.com
-        _ challenges.cloudflare.com frame allow
-        _ challenges.cloudflare.com script allow
-        _ challenges.cloudflare.com xhr allow
-        _ challenges.cloudflare.com image allow
-        _ challenges.cloudflare.com css allow
+	* challenges.cloudflare.com
+		_ challenges.cloudflare.com frame allow
+		_ challenges.cloudflare.com script allow
+		_ challenges.cloudflare.com xhr allow
+		_ challenges.cloudflare.com image allow
+		_ challenges.cloudflare.com css allow
 
 Google ReCaptcha
-    * google.com
-        _ www.google.com css allow
-        _ www.google.com frame allow
-        _ www.google.com script allow
-        _ www.google.com xhr allow
-        _ www.gstatic.com css allow
-        _ www.gstatic.com image allow
-        _ www.gstatic.com script allow
+	* google.com
+		_ www.google.com css allow
+		_ www.google.com frame allow
+		_ www.google.com script allow
+		_ www.google.com xhr allow
+		_ www.gstatic.com css allow
+		_ www.gstatic.com image allow
+		_ www.gstatic.com script allow
 
 Yandex Maps
-    * maps.yandex.net
-        _ api-maps.yandex.ru image allow
-        _ api-maps.yandex.ru script allow
-        _ maps.yandex.net image allow
-        _ yastatic.net script allow
+	* maps.yandex.net
+		_ api-maps.yandex.ru image allow
+		_ api-maps.yandex.ru script allow
+		_ maps.yandex.net image allow
+		_ yastatic.net script allow
 
 Youtube as 3rd-party
 	* youtube.com
