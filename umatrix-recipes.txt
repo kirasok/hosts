@@ -16,6 +16,7 @@ Google ReCaptcha
 		_ www.google.com frame allow
 		_ www.google.com script allow
 		_ www.google.com xhr allow
+		_ www.google.com image allow
 		_ www.gstatic.com css allow
 		_ www.gstatic.com image allow
 		_ www.gstatic.com script allow
