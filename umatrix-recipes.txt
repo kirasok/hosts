@@ -52,3 +52,11 @@ HCaptcha
 		_ hcaptcha.com script
 		_ hcaptcha.com xhr
 		_ hcaptcha.com frame
+
+Google Maps
+	* maps.googleapis.com
+		_ maps.googleapis.com script
+		_ maps.googleapis.com xhr
+		_ maps.googleapis.com image
+		_ maps.gstatic.com image
+		_ cdnjs.cloudflare.com script
