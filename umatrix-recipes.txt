@@ -32,7 +32,9 @@ Yandex Maps
 	* api-maps.yandex.ru
 		_ api-maps.yandex.ru image allow
 		_ api-maps.yandex.ru script allow
+		_ suggest-maps.yandex.ru xhr allow
 		_ maps.yandex.net image allow
+		_ maps.yandex.net xhr allow
 		_ yastatic.net script allow
 
 Youtube as 3rd-party
